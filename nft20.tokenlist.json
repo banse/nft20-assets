@@ -1,6 +1,6 @@
 {
   "name": "NFT20 Token List",
-  "logoURI": "https://raw.githubusercontent.com/banse/nft20-assets/master/nft20.png",
+  "logoURI": "https://gallery.verynifty.io/img/VNFT%20LogoMark%20Green@3x.a38ab66c.png",
   "timestamp": "2021-02-18T12:00:00+00:00",
   "version": {
     "major": 1,
@@ -19,6 +19,7 @@
       "chainId": 1,
       "name": "Hashmasks",
       "symbol": "MASK20",
+      "logoURI": "https://gallery.verynifty.io/img/VNFT%20LogoMark%20Green@3x.a38ab66c.png",
       "decimals": 18
     },
     {
@@ -26,6 +27,7 @@
       "chainId": 1,
       "name": "dokidoki20",
       "symbol": "doki20",
+      "logoURI": "https://gallery.verynifty.io/img/VNFT%20LogoMark%20Green@3x.a38ab66c.png",
       "decimals": 18
     },
     {
@@ -40,6 +42,7 @@
       "chainId": 1,
       "name": "CHONKER20",
       "symbol": "CHONK20",
+      "logoURI": "https://gallery.verynifty.io/img/VNFT%20LogoMark%20Green@3x.a38ab66c.png",
       "decimals": 18
     },
     {
@@ -47,6 +50,7 @@
       "chainId": 1,
       "name": "NodeRunners",
       "symbol": "NDR20",
+      "logoURI": "https://gallery.verynifty.io/img/VNFT%20LogoMark%20Green@3x.a38ab66c.png",
       "decimals": 18
     },
     {
@@ -54,6 +58,7 @@
       "chainId": 1,
       "name": "ROPE",
       "symbol": "ROPE20",
+      "logoURI": "https://gallery.verynifty.io/img/VNFT%20LogoMark%20Green@3x.a38ab66c.png",
       "decimals": 18
     },
     {
@@ -61,6 +66,7 @@
       "chainId": 1,
       "name": "DECENTRALAND",
       "symbol": "LAND20",
+      "logoURI": "https://gallery.verynifty.io/img/VNFT%20LogoMark%20Green@3x.a38ab66c.png",
       "decimals": 18
     },
     {
@@ -68,6 +74,7 @@
       "chainId": 1,
       "name": "NFT20 BlockArt",
       "symbol": "BlockArt20",
+      "logoURI": "https://gallery.verynifty.io/img/VNFT%20LogoMark%20Green@3x.a38ab66c.png",
       "decimals": 18
     }
   ]
